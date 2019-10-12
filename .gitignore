@@ -1,0 +1,6 @@
+/.metadata
+/myMaven/*.classpath
+/myMaven/*.project
+/myMaven/.settings
+/RemoteSystemsTempFiles
+/myMaven/target
