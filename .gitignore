@@ -4,3 +4,8 @@
 /myMaven/.settings
 /RemoteSystemsTempFiles
 /myMaven/target
+/myMaven/src/test
+/formate-spring-boot-starter/*.classpath
+/formate-spring-boot-starter/*.project
+/formate-spring-boot-starter/.settings
+/formate-spring-boot-starter/target
